@@ -6,7 +6,7 @@
 * [Excel](#excel)
 
 ## Jira
-![jira1.png](assets%2Fjira_1.png)
+![jira1.png](assets%2Fjira1.png)
 
 ![jira2.png](assets%2Fjira2.png)
 
